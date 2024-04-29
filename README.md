@@ -1,2 +1,2 @@
-# Code-Portfolio
-This is my Data Science Portfolio.  This is an example of my coding skills. 
+This is my Data Science Portfolio. 
+This will continually be updated with projects that I work on and my knowledge continues to grow. 
